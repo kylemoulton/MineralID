@@ -1,0 +1,15 @@
+name,streak1,streak2,streak3,color1,color2,color3,color4,color5,color6,hardLow,hardHigh,fracture,cleavage,luster1,luster2,diaphaneity,texture,specGravLow,specGravHigh,doubleRef
+Goethite,yellow,brown,,yellow,brown,black,,,,5,5.5,FALSE,1,submetallic,,translucent,fibrous,3.3,4.3,FALSE
+Sphalerite,white,yellow,brown,white,red,yellow,brown,green,black,3.5,4,FALSE,6,submetallic,,translucent,brittle,3.9,4.1,FALSE
+Biotite,colorless,,,green,brown,black,,,,2.5,3,FALSE,1,submetallic,,translucent,flakes,2.8,3.2,FALSE
+Graphite,black,,,black,silver,gray,,,,1,2,FALSE,1,submetallic,metallic,opaque,slippery,2.23,2.23,FALSE
+Pyrite,black,,,brass,yellow,,,,,6,6.5,TRUE,0,metalic,,opaque,crystalline,5.02,5.02,FALSE
+Hematite,red,,,red,brown,black,silver,,,5,6.5,TRUE,0,metalic,submetallic,opaque,magnetic,5.56,5.56,FALSE
+Magnetite,black,,,black,silver,,,,,6,6,TRUE,0,metalic,submetallic,opaque,magnetic,5.18,5.18,FALSE
+Pyrrhotite,black,,,brown,,,,,,4,4,TRUE,0,metalic,,opaque,magnetic,4.58,4.65,FALSE
+Chalcopyrite,green,black,,brass,yellow,,,,,3.5,4,TRUE,0,metalic,,opaque,brittle,4.1,4.3,FALSE
+Bornite,black,,,brass,,,,,,3,3,FALSE,1,metalic,,opaque,iridescent,5,5.1,FALSE
+Epidote,white,colorless,,green,black,,,,,6,7,FALSE,1,vitreous,dull,translucent,pistachio,3.35,3.4,FALSE
+Orthoclase,white,colorless,,white,gray,pink,clear,green,yellow,6,6.5,FALSE,2,vitreous,,translucent,striations,2.5,2.6,FALSE
+Plagioclase,white,colorless,,white,gray,clear,blue,green,,6,6,FALSE,2,vitreous,,translucent,striations,2.6,2.8,FALSE
+Nepheline,white,colorless,,colorless,gray,white,,,,5.5,6,FALSE,1,greasy,vitreous,translucent,cleavage,2.6,2.65,FALSE
